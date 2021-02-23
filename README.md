@@ -1,2 +1,2 @@
 # Citation-data
-Citation data
+This citation data is collected in January 2020 through a small population of 113 authors identified as a subset of all the authors who had published at least one paper in the Electronic Journal of Probability in the first 10 issues (January–October) of volume 24 in 2019 (https://projecteuclid.org/euclid.ejp/1546571125) and who are also featured on Google Scholar https://scholar.google.com).
